@@ -1,0 +1,30 @@
+{
+  "name": "bookManagementproject3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pragesh-yadav/project_3-bookManagement.git"
+  },
+  "author": "Pragesh Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pragesh-yadav/project_3-bookManagement.git/issues"
+  },
+  "homepage": "https://github.com/Pragesh-yadav/project_3-bookManagement.git#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1174.0",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.4",
+    "mongoose": "^6.4.3",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.19",
+    "validator": "^13.7.0"
+  }
+}
